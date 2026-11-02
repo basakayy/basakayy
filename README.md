@@ -6,7 +6,6 @@ I like finding the story hidden in data, whether it's a suspicious login in a lo
 ### 🔍 Currently
 - Building a data pipeline and analytics dashboard for Teamfight Tactics meta compositions (Python)
 - Training on TryHackMe's SOC path and OverTheWire
-- Learning Python through Harvard's CS50P
 
 ### 🛠️ Tools
 Python · SQL · PostgreSQL · C# / .NET · React · Linux · Docker · Git
